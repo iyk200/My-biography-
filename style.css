@@ -10,21 +10,21 @@ body {
 
 h1 {
   font-family: Monaco;
-  color: brown;
+  color: red;
 }
 
 h3 {
   font-family: Monaco;
-  color: black;
+  color: red;
   backface-visibility: visible;
 }
 p {
   font-family: Monaco;
-  color: black;
+  color: red;
 }
 li {
   font-family: Monaco;
-  color: black;
+  color: red;
 
 }
 
