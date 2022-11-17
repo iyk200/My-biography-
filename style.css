@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    background-image: url(grass1.jpg),
+    url(grass2.jpg);
+    background-position: top,bottom;
+
+    background-repeat: repeat;
+
+}
+
+h1 {
+  font-family: cursive;
+  color: brown;
+}
+
+h3 {
+  font-family: cursive;
+  color: black;
+  backface-visibility: visible;
+}
+p {
+  font-family: cursive;
+  color: black;
+}
+li {
+  font-family: cursive;
+  color: black;
+
+}
+
+hr {
+  border: 6px dotted;
+  border-style: dotted none none none;
+  height: 2px;
+  width: 8%;
+}
