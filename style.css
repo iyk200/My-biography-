@@ -9,21 +9,21 @@ body {
 }
 
 h1 {
-  font-family: Arial;
+  font-family: Monaco;
   color: brown;
 }
 
 h3 {
-  font-family: Arial;
+  font-family: Monaco;
   color: black;
   backface-visibility: visible;
 }
 p {
-  font-family: Arial;
+  font-family: Monaco;
   color: black;
 }
 li {
-  font-family: Arial;
+  font-family: Monaco;
   color: black;
 
 }
