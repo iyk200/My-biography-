@@ -9,21 +9,21 @@ body {
 }
 
 h1 {
-  font-family: cursive;
+  font-family: Arial;
   color: brown;
 }
 
 h3 {
-  font-family: cursive;
+  font-family: Arial;
   color: black;
   backface-visibility: visible;
 }
 p {
-  font-family: cursive;
+  font-family: Arial;
   color: black;
 }
 li {
-  font-family: cursive;
+  font-family: Arial;
   color: black;
 
 }
