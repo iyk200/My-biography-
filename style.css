@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: lime;
     background-image: url(grass1.jpg),
     url(grass2.jpg);
     background-position: top,bottom;
@@ -11,21 +11,21 @@ body {
 
 h1 {
   font-family: Monaco;
-  color: Aqua;
+  color: teal;
 }
 
 h3 {
   font-family: Monaco;
-  color: Aqua;
+  color: teal;
   backface-visibility: visible;
 }
 p {
   font-family: Monaco;
-  color: Aqua;
+  color: teal;
 }
 li {
   font-family: Monaco;
-  color: Aqua;
+  color: teal;
 
 }
 
